@@ -1,4 +1,4 @@
-## Adding New Feature Branch Details to into BAS
+## Adding New Feature Branch Details pull into BAS
 ## Application Details
 |               |
 | ------------- |
