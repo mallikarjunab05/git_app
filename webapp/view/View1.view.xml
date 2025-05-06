@@ -1,0 +1,9 @@
+<mvc:View controllerName="gitapp.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    
+    <Button id="button" text="Open Menu Please" press="onPress" ariaHasPopup="Menu"/>
+
+    </Page>
+</mvc:View>
