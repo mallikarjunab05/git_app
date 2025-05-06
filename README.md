@@ -1,4 +1,4 @@
-## Adding New Feature Branch Details pull into BAS
+## Adding New Feature Branch Details pull into BAS from GITTT
 ## Application Details
 |               |
 | ------------- |
